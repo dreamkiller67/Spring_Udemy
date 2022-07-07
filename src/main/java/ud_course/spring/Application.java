@@ -10,7 +10,7 @@ public class Application {
         SpringApplication.run(Application.class,args);
 
         BinarySearchImpl bs = new BinarySearchImpl();
-         int result = bs.BinarySearch(new int[] {12,10,6},3);
+         int result = bs.BinarySearch(new int[] {12,20,6},3);
          System.out.print(result);
     }
 
