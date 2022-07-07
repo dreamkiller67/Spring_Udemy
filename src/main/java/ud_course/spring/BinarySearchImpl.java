@@ -1,7 +1,6 @@
 package ud_course.spring;
 
 import org.springframework.stereotype.Component;
-
 @Component
 public class BinarySearchImpl {
 
